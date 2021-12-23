@@ -1,0 +1,25 @@
+- 👋 Hi, I’m @thepolytheist
+  - Senior Software Developer
+  - AWS Certified
+  - \>6 years of experience in full-stack development
+    - Includes source control and pipeline management
+- 👀 I’m interested in...
+  - Topics
+    - DevOps
+    - Release Management
+    - Automation
+    - IaC
+    - API Design
+  - Languages/Frameworks/Platforms
+    - .NET/C#
+    - TypeScript/JavaScript
+    - Angular
+    - Python
+    - AWS
+- 🌱 I’m currently learning...
+  - Java and Spring
+  - Go
+- 💞️ I’m looking to collaborate on...
+  - .NET projects
+  - API clients
+  - Helper libraries
